@@ -1,2 +1,3 @@
 # xiong_mybatis_plugin
 常规的增删改查操作，不再需要写sql，mapper接口集成BaseDao即可使用基础的增删改查接口
+工程 xiong_mybatis_plugin_usage 为使用教程

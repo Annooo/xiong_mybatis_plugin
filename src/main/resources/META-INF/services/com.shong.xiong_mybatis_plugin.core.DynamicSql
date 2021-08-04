@@ -1,0 +1,5 @@
+com.shong.xiong_mybatis_plugin.core.impl.DeleteDynamicSql
+com.shong.xiong_mybatis_plugin.core.impl.InsertDynamicSql
+com.shong.xiong_mybatis_plugin.core.impl.SelectByConditionSql
+com.shong.xiong_mybatis_plugin.core.impl.SelectDynamicSql
+com.shong.xiong_mybatis_plugin.core.impl.UpdateDynamicSql
